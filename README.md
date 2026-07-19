@@ -28,4 +28,5 @@ This project is an interactive HR Analytics Dashboard built using Microsoft Exce
 
 ## 🖼️ Dashboard Preview
 ![HR Dashboard](HR Dashboard.png)
+<img width="851" height="422" alt="HR Dashboard" src="https://github.com/user-attachments/assets/300fde9d-8300-4cbf-bb36-eaccadaba904" />
 
