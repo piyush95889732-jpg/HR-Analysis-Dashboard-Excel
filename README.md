@@ -27,5 +27,5 @@ This project is an interactive HR Analytics Dashboard built using Microsoft Exce
 - Interactive Slicers
 
 ## 🖼️ Dashboard Preview
-!(HR Dashboard.png)
+![HR Dashboard](HR Dashboard.png)
 
